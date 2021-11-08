@@ -1,10 +1,7 @@
 # goStarmanGame
-
+![alt text](/screenshot.webp)
 # Description
 A game in which you have to dodge asteroids as you fly your tesla through space
-
-## Screenshots
-![alt text](/screenshot.webp)
 
 ## Built With
 - Swift
