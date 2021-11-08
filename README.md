@@ -1,12 +1,10 @@
-![alt text](https://github.com/Colgates/goStarmanGame/blob/master/Simulator%20Screen%20Shot%20-%20iPad%20(6th%20generation)%20-%202021-03-05%20at%2010.53.07.png)
-
 # goStarmanGame
-![alt text](https://github.com/Colgates/goStarmanGame/blob/master/Simulator%20Screen%20Shot%20-%20iPad%20(6th%20generation)%20-%202021-03-05%20at%2010.53.07.png)
 
 # Description
 A game in which you have to dodge asteroids as you fly your tesla through space
 
 ## Screenshots
+![alt text](https://github.com/Colgates/goStarmanGame/blob/master/Simulator%20Screen%20Shot%20-%20iPad%20(6th%20generation)%20-%202021-03-05%20at%2010.53.07.png)
 
 ## Built With
 - Swift
